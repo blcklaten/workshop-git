@@ -1,3 +1,4 @@
+#! /usr/bin/python
 def segitiga () :
 
 	print ("Luas segitiga")
